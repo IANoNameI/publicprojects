@@ -1,2 +1,2 @@
-# publicprojects
+# public-projects
 Examples
